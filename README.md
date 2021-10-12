@@ -1,2 +1,2 @@
-# hello-world
-Just a tribute to the tradition
+I am discovering github 
+which I do not understand for a while.
